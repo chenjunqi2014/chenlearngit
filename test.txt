@@ -1,14 +1,15 @@
 one
 two
 three
-master‚ÅC³‚µ‚½‚à‚Ì‚P
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-branch1‚ÅC³‚µ‚½‚à‚Ì
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼‘
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+branch1ã§ä¿®æ­£ã—ãŸã‚‚ã®
+branch1ã§ä¿®æ­£ã—ãŸã‚‚ã®
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’             branch1 update
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
