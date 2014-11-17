@@ -1,8 +1,9 @@
 one
 two
 three
-master‚ÅC³‚µ‚½‚à‚Ì‚P
-master‚ÅC³‚µ‚½‚à‚Ì‚Q
-branch1‚ÅC³‚µ‚½‚à‚Ì
-branch1‚ÅC³‚µ‚½‚à‚Ì‚Q‚Q‚Q‚Q‚Q‚Q‚Q
-branch1server gai
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼‘
+masterã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’
+branch1ã§ä¿®æ­£ã—ãŸã‚‚ã®
+branch1ã§ä¿®æ­£ã—ãŸã‚‚ã®ï¼’ï¼’ï¼’ï¼’ï¼’ï¼’ï¼’
+branch1server gai1 new update
+branch1server gai2 new add
