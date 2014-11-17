@@ -8,8 +8,8 @@ branch1で修正したもの
 masterで修正したもの２             branch1 update
 masterで修正したもの２
 masterで修正したもの２
+masterで修正したもの２             branch1 update             branch1 update
 masterで修正したもの２
-masterで修正したもの２
-masterで修正したもの２
+masterで修正したもの２             branch1 update             branch1 update             branch1 update
 masterで修正したもの２
 masterで修正したもの２
