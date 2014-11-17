@@ -5,5 +5,5 @@ master‚ÅC³‚µ‚½‚à‚Ì‚P
 master‚ÅC³‚µ‚½‚à‚Ì‚Q
 branch1‚ÅC³‚µ‚½‚à‚Ì
 branch1‚ÅC³‚µ‚½‚à‚Ì‚Q‚Q‚Q‚Q‚Q‚Q‚Q
-branch1server gai local new update
-branch1local new add
+branch1server gai local new update new local udpate
+branch1local new add               new local udpate
