@@ -5,5 +5,5 @@ masterで修正したもの１
 masterで修正したもの２
 branch1で修正したもの
 branch1で修正したもの２２２２２２２
-branch1server gai local new update server new update
-branch1local new add local new update server new update
+branch1server gai local new update server new update             local update3
+branch1local new add local new update server new update          local update3
