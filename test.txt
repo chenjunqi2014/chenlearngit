@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 one
 two
 three
@@ -13,3 +14,20 @@ masterで修正したもの２
 masterで修正したもの２             branch1 update             branch1 update             branch1 update
 masterで修正したもの２
 masterで修正したもの２
+=======
+one
+two
+three
+masterで修正したもの１
+masterで修正したもの２
+branch1で修正したもの
+branch1で修正したもの２２２２２２２
+branch1server gai local new update server new update
+branch1local new add local new update server new update
+server new update
+server new update
+server new update
+server new update
+server new update
+server new update
+>>>>>>> b3a682bfb8a95f188f5cbdaac856e8ff41404b36
