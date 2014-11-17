@@ -7,3 +7,9 @@ branch1で修正したもの
 branch1で修正したもの２２２２２２２
 branch1server gai local new update server new update
 branch1local new add local new update server new update
+server new update
+server new update
+server new update
+server new update
+server new update
+server new update
