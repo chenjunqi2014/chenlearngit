@@ -3,3 +3,4 @@ two
 three
 master‚ÅC³‚µ‚½‚à‚Ì‚P
 master‚ÅC³‚µ‚½‚à‚Ì‚Q
+branch1‚ÅC³‚µ‚½‚à‚Ì
