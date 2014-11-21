@@ -3,3 +3,4 @@ sv add new line
 sv add new line
 local merge sv add new line1
 local merge sv add new line2
+local add new line
